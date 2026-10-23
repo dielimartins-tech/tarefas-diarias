@@ -1,0 +1,9 @@
+{
+  "clientes": {
+    "nome-do-cliente": {
+      "nome": "Nome exibido no relatório",
+      "ig_user_id": "17841400000000000",
+      "token_env": "META_TOKEN_NOME_DO_CLIENTE"
+    }
+  }
+}
